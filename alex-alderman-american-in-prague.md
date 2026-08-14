@@ -23,7 +23,7 @@
 	- did nothing but build in claude code for 40-50 hours a week
 	  
 	  
-- also .... maybe 1000 hours of factorio?
+- also .... maybe 1000 hours of factorio? (in past, not during sabbatical ... i like system building is what i mean)
 
 
 ### ai areas of focus
