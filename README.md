@@ -1,6 +1,6 @@
 # Start Here
 
-`.md` wasn't an acceptable file type for the CV upload section on your application form.
+md wasn't an acceptable file type for the CV upload section on your application form.
 
 so ... this.
 
