@@ -62,7 +62,7 @@ Probably not surprising with the marketing background but:
 
 ## seeking employment
 
-After almost 10 years as a freelancer working alone in a 1-person office, 2 kids from babies to in school, and now a wife back at work ... I'm ready for a change. The freelancer life was awesome for my 30s. Now I want colleagues, bigger projects, and some stability in increasingly unstable times. I would love to find a long-term home for employment, and with my marketing-to-ai path
+After almost 10 years as a freelancer working alone in a 1-person office, 2 kids from babies to in school, and now a wife back at work ... I'm ready for a change. The freelancer life was awesome for my 30s. Now I want colleagues, bigger projects, and some stability in increasingly unstable times. I would love to find a long-term home for employment, and with my marketing-to-ai path seems like it would have a good home at a company like Apify
 
 ### can we brainstorm a role for me together?
 
